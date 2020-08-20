@@ -1,0 +1,82 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+.head{
+	background-color: #72756f;
+	height: 70px;
+	width: 1366px;
+	display: flex;
+}
+.head h1{
+	text-align: center;
+	margin-left: 500px;
+	color:#ff00dd;
+	font-size: 66px;
+	text-shadow: 2px 6px 9px;
+	display: flex;
+	margin-top: -10px;
+}
+.rem{
+	display: flex;
+	width: 1366px;
+	height:587px;
+	background-color:#2e3033;
+}
+#sp1{
+	color: red;
+}
+.rem h3{
+	margin-left: 500px;
+	color: white;
+	margin-top: 50px;
+}
+.rem h1{
+	margin-left: -290px;
+	color: white;
+	margin-top:110px;
+}
+#input1{
+	height: 50px;
+	width: 500px;
+	margin-top: 150px;
+	margin-left: -487px;
+	padding-left: 20px;
+	outline: none;
+    font-size: 20px;
+	border-radius: 50px;
+	display: flex;
+}
+#in{
+	padding: 40px;
+}
+.time{
+	margin-top: 300px;
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+}
+#t{
+	margin-left: -360px;
+}
+#s{
+	margin-left: -350px;
+	padding: 10px;
+}
+.instruction{
+	 background-color:  #72756f;
+     width: 480px;
+     border: 1px solid black;
+     padding: 20px;
+     margin: 20px;
+     margin-top: 400px;
+     margin-left: -563px;
+     color: #bfb2b4;
+     font-family: sans-serif;
+     font-weight: bold;
+
+}
+#chng{
+	font-size: 50px;
+}
